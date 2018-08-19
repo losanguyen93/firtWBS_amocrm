@@ -63,9 +63,5 @@ function get_data ($subdomain){
 
 
 print_r (get_data('contacts'));
-echo "losalinh branch experience";
-echo "losalinh branch experience 2";
-echo "string simple";
-echo "---------------losa---------------";
-echo "________________________example 4";
+echo "19.08.2018";
 ?>
