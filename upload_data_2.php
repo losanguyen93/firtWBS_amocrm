@@ -67,4 +67,5 @@ echo "losalinh branch experience";
 echo "losalinh branch experience 2";
 echo "string simple";
 echo "---------------losa---------------";
+echo "________________________example 4";
 ?>
