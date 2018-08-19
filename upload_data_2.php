@@ -63,5 +63,11 @@ function get_data ($subdomain){
 
 
 print_r (get_data('contacts'));
+<<<<<<< HEAD
 echo "branch losalinh";
+=======
+echo "losalinh branch experience";
+echo "losalinh branch experience 2";
+echo "string simple";
+>>>>>>> hotfix/wbs8565
 ?>
